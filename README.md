@@ -1,16 +1,12 @@
-# bookly
+# Bookly
 
-A new Flutter project.
+A demo hotel booking mobile application that fetches data from a hotels API from RapidAPI.
+hotel api used : https://rapidapi.com/apidojo/api/hotels4.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Functionalities
+* 1. Homepage - view list of hotels based on chosen city by user on sign up.
+* 2. View details of any hotel on homepage on tap of any hotel.
+* 3. Book hotel on details page (not implemented)
+* 4. Mark a hotel as favorite (not implemented)
+* 5. Manage (view, delete or hide) booked hotel history. (not implemented)
+* 6. Search and filter hotels by city on homepage. (not implemented)
