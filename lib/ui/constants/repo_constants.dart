@@ -9,7 +9,7 @@ const hotelDetailBaseUrl =
 const hotelPhotosBaseUrl =
     "https://hotels4.p.rapidapi.com/properties/get-hotel-photos";
 
-const apiKey = "b3cc4774demsh62882654427b456p1e5f7ajsndfa0200d2e7e";
+const apiKey = "";
 
 const apiHost = "hotels4.p.rapidapi.com";
 
